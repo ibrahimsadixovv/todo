@@ -50,6 +50,7 @@ body {
     align-items: center;
     padding-left: 10px;
     border-radius: 15px;
+    Overflow: hidden
     transition-duration: 0.3s;
 }
 
